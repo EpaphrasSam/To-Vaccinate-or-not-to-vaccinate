@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Cache and temporary files
+cache_dir/
+outputs/
+runs/
+apex/
+
+# Model checkpoints
+*.pt
+*.bin
+*.ckpt
+
+# CSV files (uncomment if you want to exclude)
+# *.csv
+
+# Local development settings
+.env
