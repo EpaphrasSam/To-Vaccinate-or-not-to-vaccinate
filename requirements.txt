@@ -1,0 +1,9 @@
+transformers>=4.5.0
+torch>=1.8.0
+pandas>=1.2.0
+numpy>=1.19.2
+scikit-learn>=0.24.0
+nltk>=3.6.0
+tqdm>=4.60.0
+apex>=0.1
+tensorboard>=2.5.0
